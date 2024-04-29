@@ -1,0 +1,18 @@
+.main{
+  width: 500px;
+  background-color: aqua;
+  border-radius: 20px;
+  box-shadow: 6px 7px 9px #dddd;
+  padding:20px;
+  margin-left:20px
+} 
+img{
+   width: 200px;
+   height:auto ;
+   padding-left: 100px;
+   padding-top: 50px;
+}
+*{
+  margin: 0;
+  padding: 0;
+}
